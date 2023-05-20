@@ -3,8 +3,8 @@
 </p>
 <p align="center">
   «&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[https://aastudy.com](https://aastudy.com)">Website</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[https://t.me/NommiHang](https://t.me/NommiHang)">Telegram</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aastudy.com">Website</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/NommiHang">Telegram</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bjornlu.com/sponsor">Sponsor</a>&nbsp;&nbsp;&nbsp;&nbsp;
   »
